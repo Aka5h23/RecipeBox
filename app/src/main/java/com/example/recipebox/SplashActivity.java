@@ -10,6 +10,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.recipebox.user_authentication.UserActivity;
+
 public class SplashActivity extends Activity {
 
     private static int Splash_Screen = 2200;
@@ -51,7 +53,7 @@ public class SplashActivity extends Activity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(SplashActivity.this, MainActivity.class);
+                Intent intent = new Intent(SplashActivity.this, UserActivity.class);
                 startActivity(intent);
                 finish();
             }

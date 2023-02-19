@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.121" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/drawable/ic_baseline_panorama_fish_eye_24.xml" value="0.172" />
         <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/drawable/ic_wewasset_3.xml" value="0.172" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/drawable/rounded_box_fill.xml" value="0.121" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/drawable/rounded_box_stroke.xml" value="0.121" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/drawable/rounded_bright.xml" value="0.121" />
         <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/font/asul_bold.xml" value="0.14010416666666667" />
         <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
         <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/RecipeBox/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
       </map>
     </option>
   </component>
